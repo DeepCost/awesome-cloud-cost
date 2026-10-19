@@ -227,6 +227,7 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[PerfectScale](https://www.perfectscale.io)** - Kubernetes autonomous optimization.
 - **[StormForge](https://www.stormforge.io)** - ML-driven Kubernetes optimization.
 - **[nOps Rightsizing](https://www.nops.io)** - Automated AWS rightsizing.
+- **[CloudWorth](https://www.getcloudworth.com/)** - Detects VPS/cloud overselling and gives right-sizing advice; free first check. Available in 11 languages.
 
 ## Spot Instance Management
 
