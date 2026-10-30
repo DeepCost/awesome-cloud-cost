@@ -293,10 +293,11 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[AWS Pricing Calculator](https://calculator.aws)** - Official AWS cost estimation.
 - **[Azure Pricing Calculator](https://azure.microsoft.com/en-us/pricing/calculator/)** - Azure cost calculator.
 - **[GCP Pricing Calculator](https://cloud.google.com/products/calculator)** - Google Cloud cost estimation.
+- **[Holori](https://www.holori.com)** - Cloud architecture cost estimation.
 - **[Infracost](https://www.infracost.io)** - Terraform cost estimates in CI/CD.
 - **[Terracost](https://github.com/cycloidio/terracost)** - Terraform cost estimation.
 - **[Vantage Calculator](https://www.vantage.sh/calculator)** - Interactive cloud calculator.
-- **[Holori](https://www.holori.com)** - Cloud architecture cost estimation.
+- **[VPSLedger](https://vpsledger.pages.dev)** - True monthly VPS cost (list price plus IPv4, backups and egress) across providers, with sourced dated prices and open JSON data.
 
 ## FinOps Resources
 
