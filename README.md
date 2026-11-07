@@ -177,6 +177,7 @@ Cloud costs are among the biggest challenges for organizations running workloads
 - **[FinOut Multi-Cloud](https://www.finout.io)** - AWS, Azure, GCP, Kubernetes, Datadog cost management.
 - **[Spot Multi-Cloud](https://spot.io)** - Cost optimization across AWS, Azure, GCP.
 - **[Densify Multi-Cloud](https://www.densify.com)** - AWS, Azure, GCP, on-premises optimization.
+- **[Control Cloud](https://controlcloud.dev)** - Live inventory and costs from the billing API for OCI, Azure, AWS, GCP, IONOS, and on-prem, with unattached disk and orphaned IP detection and scheduled VM shutdown.
 
 ## Serverless Cost Tools
 
